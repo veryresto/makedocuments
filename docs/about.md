@@ -17,7 +17,7 @@ oraque, levis vinciys adepta aegros ulli lacerat vitisque,est flagellari omnia n
 about how you can connect with the millions of developers who Read the 
 Docs each month.
 
-## Certamine murmurat nostra
+## It is heading 2 too
 
 Dolor Achilles volat fecunda; arida quae in ad suspectus petens, quid currum
 vibrata quae. Pulsant et radium Deianira ab Procrin pingue tegi **Ortygiam
