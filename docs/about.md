@@ -10,6 +10,13 @@ oraque, levis vinciys adepta aegros ulli lacerat vitisque,est flagellari omnia n
 2. Crater Tenos exarsit a tamen nam utraque
 3. Hosti perque in mactassent Apollinei ulla
 
+.. important::
+
+   **Are you a marketer?**
+   `Learn more <https://readthedocs.org/sustainability/advertising/>`_ 
+about how you can connect with the millions of developers who Read the 
+Docs each month.
+
 ## Certamine murmurat nostra
 
 Dolor Achilles volat fecunda; arida quae in ad suspectus petens, quid currum
